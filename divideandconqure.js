@@ -17,5 +17,5 @@ function search(array, val){
 			return middle;
 		}
 	}
-	return -1
+	return -1;
 }
